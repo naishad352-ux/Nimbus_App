@@ -32,3 +32,4 @@ During testing, I identified 5 bugs and documented them in the bug report. I als
 Naishadh Prajapati
 
 https://github.com/naishad352-ux/Nimbus_App.git
+https://naishad352-ux.github.io/Nimbus_App/
